@@ -10,4 +10,4 @@ Nesta aplicação, utilizando HTML e CSS, desenvolvi uma página para uma academ
 
 # Representação do projeto:
 
-![image](https://github.com/LucasCarsilva/Explorer-Projeto02-TreineMe/assets/57200163/632ec1e2-fc3a-4860-9c3a-41c4e2077fbd)
+![imagem representando o projeto](images/TreineMe.PNG)
